@@ -1,0 +1,49 @@
+{
+  "upload_type": "software",
+  "title": "circular-gh-ifc-ai: Grasshopper workflow for LLM-assisted IFC data enrichment to support circular reuse of large-panel building systems",
+  "description": "<p>Supplementary material for: P&#322;oszaj-Mazurek, M., &amp; Tofiluk, A. (2026). <em>A workflow for LLM-assisted IFC data enrichment to support circular reuse of large-panel building systems in Poland.</em> Journal of Building Engineering, 120, 115397. <a href=\"https://doi.org/10.1016/j.jobe.2026.115397\">https://doi.org/10.1016/j.jobe.2026.115397</a></p><p>Contains the proof-of-concept Grasshopper definition and example BIM/IFC models: IFC parsing via Geometry Gym, data-completeness checking, two-stage attribute enrichment (deterministic lookup tables followed by LLM inference), element-level circularity scoring, colour-coded 3D visualisation, and CSV/JSON export.</p><p>This is an experimental demonstrator, not a validated or industry-ready assessment tool. The circularity indicator is provisional, LLM-inferred attributes were checked by expert review rather than against ground-truth data, and no error ranges or sensitivity analysis were computed. Outputs must not be used as a basis for structural, safety, or certification decisions.</p><p>Code and Grasshopper definition licensed MIT; example models and documentation licensed CC BY 4.0.</p>",
+  "creators": [
+    {
+      "name": "Płoszaj-Mazurek, Mateusz",
+      "affiliation": "Faculty of Architecture, Warsaw University of Technology",
+      "orcid": "0000-0002-4618-7849"
+    },
+    {
+      "name": "Tofiluk, Anna",
+      "affiliation": "Faculty of Architecture, Warsaw University of Technology",
+      "orcid": "0000-0002-5082-6746"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "semantic enrichment",
+    "IFC",
+    "large language model",
+    "circular construction",
+    "prefabricated building systems",
+    "large-panel system",
+    "digital twin",
+    "BIM",
+    "Grasshopper",
+    "circular economy",
+    "adaptive reuse"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1016/j.jobe.2026.115397",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/Curiosit/circular-gh-ifc-ai",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "grants": [],
+  "notes": "Research funded by Warsaw University of Technology within the Excellence Initiative: Research University (IDUB) programme."
+}
