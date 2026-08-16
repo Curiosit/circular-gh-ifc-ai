@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated article."
+title: "circular-gh-ifc-ai: Grasshopper workflow for LLM-assisted IFC data enrichment"
+abstract: >-
+  Proof-of-concept Grasshopper definition and example BIM/IFC models supporting
+  LLM-assisted semantic enrichment of IFC data and element-level circularity
+  scoring for Polish large-panel (LPS) building systems.
+type: software
+authors:
+  - family-names: "Płoszaj-Mazurek"
+    given-names: "Mateusz"
+    email: "mateusz.mazurek@pw.edu.pl"
+    affiliation: "Faculty of Architecture, Warsaw University of Technology"
+    orcid: "https://orcid.org/TODO-ORCID"
+  - family-names: "Tofiluk"
+    given-names: "Anna"
+    affiliation: "Faculty of Architecture, Warsaw University of Technology"
+    orcid: "https://orcid.org/TODO-ORCID"
+repository-code: "https://github.com/Curiosit/circular-gh-ifc-ai"
+license: MIT
+keywords:
+  - semantic enrichment
+  - IFC
+  - large language model
+  - circular construction
+  - prefabricated building systems
+  - digital twin
+  - BIM
+  - Grasshopper
+preferred-citation:
+  type: article
+  title: >-
+    A workflow for LLM-assisted IFC data enrichment to support circular reuse
+    of large-panel building systems in Poland
+  authors:
+    - family-names: "Płoszaj-Mazurek"
+      given-names: "Mateusz"
+    - family-names: "Tofiluk"
+      given-names: "Anna"
+  journal: "Journal of Building Engineering"
+  volume: 120
+  start: 115397
+  year: 2026
+  doi: "10.1016/j.jobe.2026.115397"

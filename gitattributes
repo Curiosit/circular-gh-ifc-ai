@@ -1,0 +1,13 @@
+# Treat binary/large design files as binary — no diffing, no CRLF mangling
+*.gh   binary
+*.ghx  text eol=crlf
+*.rvt  binary
+*.rfa  binary
+*.3dm  binary
+*.ifc  text eol=crlf
+
+# Optional: track large models with Git LFS instead.
+# Only worth enabling before the files are first committed; converting after the fact
+# requires rewriting history. Uncomment and run `git lfs install` first.
+# *.rvt filter=lfs diff=lfs merge=lfs -text
+# *.gh  filter=lfs diff=lfs merge=lfs -text

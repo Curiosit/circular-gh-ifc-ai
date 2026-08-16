@@ -1,0 +1,39 @@
+# Secrets — never commit API keys
+.env
+*.key
+api_key.txt
+secrets.*
+
+# Rhino / Grasshopper
+*.3dmbak
+*.rhl
+*.ghx.bak
+*_backup.gh
+*.gh.bak
+GH_IO.dll
+
+# Revit
+*.rvt.[0-9][0-9][0-9][0-9]
+*.rfa.[0-9][0-9][0-9][0-9]
+*.rws
+*.dwl
+*.dwl2
+*.rvt.bak
+Backup/
+*.slog
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Outputs
+exports/
+*.csv
+*.json
+!*.template.json

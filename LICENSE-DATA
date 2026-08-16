@@ -1,0 +1,26 @@
+# Data and documentation licence
+
+The example models and documentation in this repository — specifically:
+
+- `example-ifc.ifc`
+- `example-revit.rvt`
+- everything under `docs/`
+
+are licensed under the **Creative Commons Attribution 4.0 International licence (CC BY 4.0)**.
+
+You are free to share and adapt this material for any purpose, including commercially,
+provided you give appropriate credit, link to the licence, and indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+## Attribution
+
+> Płoszaj-Mazurek, M., & Tofiluk, A. (2026). A workflow for LLM-assisted IFC data
+> enrichment to support circular reuse of large-panel building systems in Poland.
+> *Journal of Building Engineering*, 120, 115397. https://doi.org/10.1016/j.jobe.2026.115397
+
+---
+
+Source code and the Grasshopper definition (`gh-ai-script.gh`) are licensed separately
+under the MIT licence — see `LICENSE`.
