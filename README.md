@@ -16,6 +16,7 @@
 [![Status](https://img.shields.io/badge/status-proof--of--concept-yellow)](#what-this-is-and-what-it-is-not)
  
 </div>
+
 **Supplementary material for:**
 Płoszaj-Mazurek, M., & Tofiluk, A. (2026). *A workflow for LLM-assisted IFC data enrichment to support circular reuse of large-panel building systems in Poland.* **Journal of Building Engineering, 120, 115397.**
 https://doi.org/10.1016/j.jobe.2026.115397 (open access, CC BY-NC 4.0)
