@@ -6,7 +6,8 @@
 ***Filling the gaps in forgotten buildings***
  
 [![Paper](https://img.shields.io/badge/paper-J.%20Build.%20Eng.%20120%20(2026)%20115397-orange)](https://doi.org/10.1016/j.jobe.2026.115397)
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jobe.2026.115397-blue)](https://doi.org/10.1016/j.jobe.2026.115397)
+[![Open access](https://img.shields.io/badge/open%20access-CC%20BY--NC%204.0-brightgreen)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970016.svg)]
 [![Open access](https://img.shields.io/badge/open%20access-CC%20BY--NC%204.0-brightgreen)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Archive](https://img.shields.io/badge/Zenodo-pending-lightgrey)](#citing)
 [![Code licence: MIT](https://img.shields.io/badge/code-MIT-green)](LICENSE)
@@ -129,6 +130,21 @@ If you use this material, please cite the article:
   pages   = {115397},
   year    = {2026},
   doi     = {10.1016/j.jobe.2026.115397}
+}
+```
+
+To cite this repository specifically — for example when referring to the exact code state used — cite the archived Zenodo deposit:
+ 
+```bibtex
+@software{PloszajMazurek2026software,
+  author    = {P{\l}oszaj-Mazurek, Mateusz and Tofiluk, Anna},
+  title     = {circular-gh-ifc-ai: Grasshopper workflow for {LLM}-assisted {IFC}
+               data enrichment},
+  version   = {v1.0.0},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.21970016},
+  url       = {https://doi.org/10.5281/zenodo.21970016}
 }
 ```
  
