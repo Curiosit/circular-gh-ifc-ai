@@ -7,7 +7,7 @@
  
 [![Paper](https://img.shields.io/badge/paper-J.%20Build.%20Eng.%20120%20(2026)%20115397-orange)](https://doi.org/10.1016/j.jobe.2026.115397)
 [![Open access](https://img.shields.io/badge/open%20access-CC%20BY--NC%204.0-brightgreen)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970016.svg)]
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970016.svg)
 [![Open access](https://img.shields.io/badge/open%20access-CC%20BY--NC%204.0-brightgreen)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Archive](https://img.shields.io/badge/Zenodo-pending-lightgrey)](#citing)
 [![Code licence: MIT](https://img.shields.io/badge/code-MIT-green)](LICENSE)
