@@ -11,11 +11,11 @@ authors:
     given-names: "Mateusz"
     email: "mateusz.mazurek@pw.edu.pl"
     affiliation: "Faculty of Architecture, Warsaw University of Technology"
-    orcid: "https://orcid.org/TODO-ORCID"
+    orcid: "https://orcid.org/0000-0002-4618-7849"
   - family-names: "Tofiluk"
     given-names: "Anna"
     affiliation: "Faculty of Architecture, Warsaw University of Technology"
-    orcid: "https://orcid.org/TODO-ORCID"
+    orcid: "https://orcid.org/0000-0002-5082-6746"
 repository-code: "https://github.com/Curiosit/circular-gh-ifc-ai"
 license: MIT
 keywords:
